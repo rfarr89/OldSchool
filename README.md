@@ -18,7 +18,7 @@ I basically dumped all the code I could find from assignments that I thought wer
          '  `+.;  ;  '      :   
          :  '  |    ;       ;-. 
          ; '   : :`-:     _.`* ;
-[bug] .*' /  .*' ; .*`- +'  `*' 
+<bug> .*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
      
      Art by Blazej Kozlowski
